@@ -1,0 +1,27 @@
+{
+    "name": "Weather-app",
+    "short_name": "Weather",
+    "description": "A simple app to check Weather",
+    "icons": [
+        {
+            "src": "assets/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/img/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#ec4899",
+    "theme_color": "#7a61f3",
+    "display": "fullscreen",
+    "orientation": "any",
+    "start_url": ".",
+    "url": "index.html",
+    "scope": ".",
+    "lang": "en",
+    "dir": "rtl"
+}
